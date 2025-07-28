@@ -13,7 +13,7 @@ California Houses’ Pricing Prediction Final Report
  
 **Response:** The dataset used (https://www.kaggle.com/datasets/camnugent/california-housing-prices/discussion/57595) is a public California housing dataset consisting of 20,640 rows and 10 columns. It includes features such as median income, housing median age, and geographic coordinates. A visual EDA was performed using scatter plots and correlation matrices to assess feature relationships.
 
-4.	**Data Preprocessing/Preparation:** For this deliverable, you are tasked with detailing how you cleaned the data for your notebook. 
+4.	**Data Preprocessing/Preparation:** For this deliverable, you are tasked with detailing how you cleaned the data for your notebook.
 a.	What techniques did you use to ensure your data was free of missing values, and inconsistencies? 
 **Response:** Data cleaning involved removing 207 rows with missing values in 'total_bedrooms'. Duplicate rows were also removed. Outliers were identified using IQR and scatter plots, reducing the dataset to 17,434 rows.
 
