@@ -1,5 +1,6 @@
 
-# 🏡 California Housing Price Prediction
+# 🏡 Capstone Project - Final Report - California Housing Price Prediction
+#Jupyter notebook: https://github.com/lakshmisharma17/Module24/blob/main/Capstone_Module24.ipynb
 
 This project is part of the Capstone Project 24.1 and aims to predict housing prices in California based on socio-economic and geographic features. It explores data preparation, modeling, and evaluation techniques in a supervised machine learning pipeline.
 
@@ -26,7 +27,6 @@ Dataset: [California Housing Prices](https://www.kaggle.com/datasets/camnugent/c
 
 ## 🤖 Models Used
 - Linear Regression
-- Ridge Regression
 - Random Forest Regressor
 - Gradient Boosting Regressor
 - Support Vector Regressor (SVR)
@@ -51,9 +51,7 @@ Dataset: [California Housing Prices](https://www.kaggle.com/datasets/camnugent/c
 
 ## 📁 Project Structure
 - `notebooks/` – Jupyter Notebooks for EDA and modeling
-- `data/` – Cleaned dataset
-- `README.md` – Project overview
-- `report/` – Final report (PDF/docx)
+- `README.md` – Project Report 
 
 ## 📌 Conclusion
-Random Forest yielded the best predictive performance. The consistent appearance of socio-economic and geographic features across models demonstrates their importance in determining housing prices in California.
+Random Forest yielded the best predictive performance. The consistent appearance of socio-economic and geographic features such as median_income, ocean_proximity_INLAND, population_per_household, and location (longitude, latitude) across different models used demonstrated their importance as the most influential features in determining housing prices in California.
