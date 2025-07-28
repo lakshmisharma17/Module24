@@ -26,7 +26,6 @@ Dataset: [California Housing Prices](https://www.kaggle.com/datasets/camnugent/c
 
 ## 🤖 Models Used
 - Linear Regression
-- Ridge Regression
 - Random Forest Regressor
 - Gradient Boosting Regressor
 - Support Vector Regressor (SVR)
